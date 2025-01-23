@@ -13,7 +13,7 @@ public class PerfectNumber {
             System.out.println(n+ " is a perfecrt number");
         }
         else {
-            System.out.println(n+ " is a perfecrt number");
+            System.out.println(n+ " is not a perfecrt number");
         }
     }
 }
