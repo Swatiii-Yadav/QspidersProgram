@@ -62,7 +62,7 @@ class  AcademicBook extends BookClass{
       this.Subject=Subject;
    }
    void displayAcademicBook(){
-      System.out.println("Subject "+ Arrays.toString(Subject));
+      System.out.println("Subject "+ Arrays.lstoString(Subject));
       System.out.println("Edition "+Edition);
 
    }
